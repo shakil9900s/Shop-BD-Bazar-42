@@ -1,0 +1,6 @@
+{
+  "name": "SHOP BD BAZAR",
+  "description": "Professional E-Commerce platform for Bangladesh with variant options, cascading address selection, Cash on Delivery, and secure Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
